@@ -1,0 +1,1 @@
+**MANIFESTATION** (n. f.) — Sport national de plein air, plus populaire que le football, consistant à bloquer le pays pour rappeler au gouvernement que le peuple n’est pas d’accord, peu importe le sujet.
