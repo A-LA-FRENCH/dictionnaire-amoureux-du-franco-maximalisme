@@ -174,6 +174,7 @@ L'IFM d'une œuvre est noté sur 100. Il se calcule en additionnant les points d
 | Infraction | Points |
 | --- | --- |
 | Usage de « digital » au sens de « numérique » | −15 |
+| Emploi de « pallier à » | −15 |
 | Chute supprimée ou adoucie | −25 |
 | Guillemets droits "comme ceci" | −5 |
 | Excuse ou modestie injustifiée (« sans prétention », « humblement ») | −20 |
